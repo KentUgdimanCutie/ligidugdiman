@@ -1,5 +1,5 @@
 # TechFolio Hub
-TechFolio Mobile App.
+ligidApp
 
 # Features
 * Share Projects
