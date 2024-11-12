@@ -1,4 +1,4 @@
-# TechFolio Hub
+# ligidApp
 ligidApp
 
 # Features
